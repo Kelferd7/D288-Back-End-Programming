@@ -44,7 +44,7 @@ B.   Create your subgroup and project by logging into GitLab using the web link 
 
 •    commit with a message and push when you complete each of the tasks listed below (parts B to F, etc.)
 
-
+2. Created working_branch. Date: 9/11.
 
 Note: Any submissions that do not have a commit after each task will not be evaluated.
 
@@ -67,7 +67,7 @@ Note: The packages should be on the same level of the hierarchy.
 
 Note: Construct a package named config and copy the RestDataConfig.java provided in the laboratory environment to the package. Modify it so that the package and imports have the correct package and import addresses. Copy the application.properties file that is provided in the laboratory environment into your application properties resource file.
 
-
+3. Constructed 4 packages (contollers/dao/entities/services), added RestDataConfig.java and application.properties. Date: 9/11.
 
 D.   Write code for the entities package that includes entity classes and the enum designed to match the UML diagram.
 
