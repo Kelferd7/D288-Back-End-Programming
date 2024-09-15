@@ -95,6 +95,7 @@ G.   Write code to include validation to enforce the inputs needed by the Angula
 
 H.   Write code for the controllers package that includes a REST controller checkout controller class with a post mapping to place orders.
 
+8. Added CheckoutContorller.java to controllers. Updated README.md. Date: 9/15.
 
 Note: You do not need to duplicate REST functionality for each repository by creating methods in Java.
 
@@ -104,6 +105,7 @@ I.   Add five sample customers to the application programmatically.
 
 Note: Make sure the customer information is not overwritten each time you run the application.
 
+9. 
 
 J.   Run your integrated application by adding a customer order for a vacation with two excursions using the unmodified Angular front-end. Provide screenshots for the following:
 
@@ -115,5 +117,6 @@ J.   Run your integrated application by adding a customer order for a vacation w
 
 Note: The screenshot should include the front-end view and the inspection console in the browser.
 
+10. 
 
 K.   Demonstrate professional communication in the content and presentation of your submission.
