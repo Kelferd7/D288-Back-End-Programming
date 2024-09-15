@@ -71,9 +71,11 @@ Note: Construct a package named config and copy the RestDataConfig.java provided
 
 D.   Write code for the entities package that includes entity classes and the enum designed to match the UML diagram.
 
+4. Added java classes to Entity file. Date: 9/14.
 
 E.   Write code for the dao package that includes repository interfaces for the entities that extend JpaRepository, and add cross-origin support.
 
+5. Added repositories to dao file. Date 9/14.
 
 F.   Write code for the services package that includes each of the following:
 
