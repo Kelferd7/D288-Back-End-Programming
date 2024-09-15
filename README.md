@@ -105,7 +105,7 @@ I.   Add five sample customers to the application programmatically.
 
 Note: Make sure the customer information is not overwritten each time you run the application.
 
-9. 
+9. Added BootStrapData.java to bootstrap. Updated README.md. Date: 9/15.
 
 J.   Run your integrated application by adding a customer order for a vacation with two excursions using the unmodified Angular front-end. Provide screenshots for the following:
 
