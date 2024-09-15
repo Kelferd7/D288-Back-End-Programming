@@ -87,7 +87,7 @@ F.   Write code for the services package that includes each of the following:
 
 •    a checkout service implementation class
 
-
+6. Update to services file, added services java files. Update to README.md. Date: 9/15
 
 G.   Write code to include validation to enforce the inputs needed by the Angular front-end.
 
